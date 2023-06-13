@@ -1,0 +1,10 @@
+* lisp-preprocessor
+
+Common lisp embedded template engine
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cxxxr/lisp-preprocessor.git   |
+| commit  | cbed595  |
+| systems | lisp-preprocessor |
+|---------+-------------------------------------------|
+
